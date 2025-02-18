@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:toconlinerepos/sp-excel-loader.git
+  remote: git@github.com:vpfpinho/sp-excel-loader.git
   revision: 086a224b0425e41df0d439f3a42fa0e8bfebe588
   specs:
     sp-excel-loader (0.3.42)
